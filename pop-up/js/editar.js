@@ -4,7 +4,7 @@
             '<span></span>' +
             '<span></span>' +
             '<span></span>' +
-            '<a href="https://www.instagram.com/p/B2X-1Z_gGZA/?utm_source=ig_web_copy_link" target="_blank" class="bio_btn">Participar do Sorteio &nbsp; <i class="fa fa-instagram"></i></a>' +
+            '<a href="https://www.instagram.com/p/B2X-1Z_gGZA/?utm_source=ig_web_copy_link" target="_blank" class="bio_btn">SEE MORE GIRLS &nbsp; <i class="fa fa-instagram"></i></a>' +
             '</div>',
             css: '#bio_ep {width: 400px; height: 400px; color: #333; background-color: #fafafa; text-align: center;background-image: url(pop-up/imagens-pop/sorteio04.jpg);background-size: cover;}' +
             '#bio_ep_content {padding: 255px 0 0 0; font-family: inherit;}' +
